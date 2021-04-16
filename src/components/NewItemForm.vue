@@ -1,8 +1,10 @@
 <template>
     <div class="add-item">
         <form action="#" method="post" v-on:submit.prevent="submitForm">
-            <input type="text" v-model="itemText" placeholder="Add something to the backlog">
+            <input type="text" v-model="itemText" placeholder="Add a task!">
         </form>
+        <li>Set Up Backend</li>
+        <li>API for email, twitter</li>
     </div>
 </template>
 
@@ -26,9 +28,10 @@
       },
     },
   };
-  </script>
+  
+</script>
 
-  <style>
+<style>
 .add-item input {
   outline: none;
   border: 0;

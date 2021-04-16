@@ -36,4 +36,7 @@ import MenuBar from '@/components/MenuBar';
   .card-block {
     padding: 15px;
   }
+  .primary {
+  background-color: #972475 !important;
+  }
 </style>

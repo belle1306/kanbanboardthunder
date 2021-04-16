@@ -19,7 +19,7 @@
     methods: {
       submitForm() {
         if (this.itemText) {
-          this.$store.commit('addItem', {
+          this.$store.commit('', {
             text: this.itemText,
           });
 

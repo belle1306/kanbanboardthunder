@@ -2,7 +2,8 @@
   <div id="app">
     <div class="page-header">
       <h1>Kanban Board</h1>
-      <p class="lead">Kanban board, written by Isabelle in Vue.js</p>
+      <p class="lead">Kanban board, a pre-interview assignment for ThunderQuote by Isabelle Francis</p>
+      <p class="lead">Made with Vue.js and bootstrap 4.0</p>
     </div>
     
     <menu-bar></menu-bar>

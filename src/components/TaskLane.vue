@@ -23,6 +23,7 @@ export default {
     props: ['items', 'title', 'id'],
     components: {
         item: TaskLaneItem,
+        draggable: Draggable,
         draggables: {
     get() {
       return this.items;

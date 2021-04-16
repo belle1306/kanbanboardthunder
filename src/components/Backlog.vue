@@ -12,7 +12,7 @@
 
 <script>
 
-import { mapState } from 'vuex';      // new import
+import { mapState } from 'vuex';     
 import NewItemForm from './NewItemForm';
 
 const badgeDetail = {

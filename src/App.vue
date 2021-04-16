@@ -25,7 +25,7 @@ import MenuBar from '@/components/MenuBar';
 
 <style>
   .page-header h1 {
-    font-weight: 300;
+    font-weight: 500;
   }
   .card {
     margin-bottom: 10px;
